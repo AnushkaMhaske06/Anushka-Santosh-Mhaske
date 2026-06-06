@@ -29,6 +29,6 @@ Power BI dashboard for monitoring student academic performance, attendance trend
 
 ## Connect With Me
 
-GitHub: github.com/mhaskeanushka04-cyber
+GitHub: github.com/mhaskeanushka06.
 
 ⭐ Always learning and building new projects.
